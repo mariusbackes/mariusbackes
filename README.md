@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey there! 👋
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mariusbackes)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariusbackes)
 
-<!--
-**mariusbackes/mariusbackes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marius, a Software Engineer from Germany and I love web technolgogies. I'm a backend engineer using node.js and TypeScript and App developer with the help of the the Ionic framework.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+Languages:
+![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js)
+![](https://img.shields.io/badge/Lang-Ionic-informational?style=flat&logo=ionic)
+![](https://img.shields.io/badge/Lang-Angular-informational?style=flat&logo=angular)
+<br>
+<br>
+DevOps:
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker)
+![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat&logo=github-actions)
+<br>
+<br>
+Operating System:
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
